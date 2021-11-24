@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ascated/static/css/main.da902447.chunk.css",
+    "main.js": "/ascated/static/js/main.ec1b4d4e.chunk.js",
+    "main.js.map": "/ascated/static/js/main.ec1b4d4e.chunk.js.map",
+    "runtime-main.js": "/ascated/static/js/runtime-main.0b42c916.js",
+    "runtime-main.js.map": "/ascated/static/js/runtime-main.0b42c916.js.map",
+    "static/js/2.2d016ddc.chunk.js": "/ascated/static/js/2.2d016ddc.chunk.js",
+    "static/js/2.2d016ddc.chunk.js.map": "/ascated/static/js/2.2d016ddc.chunk.js.map",
+    "index.html": "/ascated/index.html",
+    "precache-manifest.6154bc6406660ce4123e1f76dbb31440.js": "/ascated/precache-manifest.6154bc6406660ce4123e1f76dbb31440.js",
+    "service-worker.js": "/ascated/service-worker.js",
+    "static/css/main.da902447.chunk.css.map": "/ascated/static/css/main.da902447.chunk.css.map",
+    "static/js/2.2d016ddc.chunk.js.LICENSE.txt": "/ascated/static/js/2.2d016ddc.chunk.js.LICENSE.txt",
+    "static/media/Isbelasoft - AD.mp4": "/ascated/static/media/Isbelasoft - AD.ae37d4ca.mp4",
+    "static/media/style.scss": "/ascated/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/ascated/static/media/feature-tile-icon-01.94d09cb2.svg",
+    "static/media/feature-tile-icon-02.svg": "/ascated/static/media/feature-tile-icon-02.4441f1f9.svg",
+    "static/media/feature-tile-icon-03.svg": "/ascated/static/media/feature-tile-icon-03.565aafdc.svg",
+    "static/media/feature-tile-icon-04.svg": "/ascated/static/media/feature-tile-icon-04.cb405a4e.svg",
+    "static/media/feature-tile-icon-05.svg": "/ascated/static/media/feature-tile-icon-05.22b8d235.svg",
+    "static/media/feature-tile-icon-06.svg": "/ascated/static/media/feature-tile-icon-06.e72db84c.svg",
+    "static/media/features-split-image-01.png": "/ascated/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/ascated/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/ascated/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/ascated/static/media/logo.d7e08e8d.svg",
+    "static/media/logoCompleto.svg": "/ascated/static/media/logoCompleto.df8bde3e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b42c916.js",
+    "static/js/2.2d016ddc.chunk.js",
+    "static/css/main.da902447.chunk.css",
+    "static/js/main.ec1b4d4e.chunk.js"
+  ]
+}
