@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ascated/static/css/main.da902447.chunk.css",
-    "main.js": "/ascated/static/js/main.ec1b4d4e.chunk.js",
-    "main.js.map": "/ascated/static/js/main.ec1b4d4e.chunk.js.map",
+    "main.js": "/ascated/static/js/main.f1fda6ac.chunk.js",
+    "main.js.map": "/ascated/static/js/main.f1fda6ac.chunk.js.map",
     "runtime-main.js": "/ascated/static/js/runtime-main.0b42c916.js",
     "runtime-main.js.map": "/ascated/static/js/runtime-main.0b42c916.js.map",
     "static/js/2.2d016ddc.chunk.js": "/ascated/static/js/2.2d016ddc.chunk.js",
     "static/js/2.2d016ddc.chunk.js.map": "/ascated/static/js/2.2d016ddc.chunk.js.map",
     "index.html": "/ascated/index.html",
-    "precache-manifest.6154bc6406660ce4123e1f76dbb31440.js": "/ascated/precache-manifest.6154bc6406660ce4123e1f76dbb31440.js",
+    "precache-manifest.80e46e3ab379d4365094e8773d672c9e.js": "/ascated/precache-manifest.80e46e3ab379d4365094e8773d672c9e.js",
     "service-worker.js": "/ascated/service-worker.js",
     "static/css/main.da902447.chunk.css.map": "/ascated/static/css/main.da902447.chunk.css.map",
     "static/js/2.2d016ddc.chunk.js.LICENSE.txt": "/ascated/static/js/2.2d016ddc.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.0b42c916.js",
     "static/js/2.2d016ddc.chunk.js",
     "static/css/main.da902447.chunk.css",
-    "static/js/main.ec1b4d4e.chunk.js"
+    "static/js/main.f1fda6ac.chunk.js"
   ]
 }
