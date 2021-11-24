@@ -71,20 +71,11 @@ const Hero = ({
               <h4 className="m-0 mb-32 reveal-from-bottom text-uppercase" data-reveal-delay="400">
                 Asociación de Capacitación y Asistencia Técnica en Educación y Discapacidad
               </h4>
-              {/* <div className="reveal-from-bottom" data-reveal-delay="600">
-                <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
-                    </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
-                    </Button>
-                </ButtonGroup>
-              </div> */}
+
             </div>
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-            <a
+            {/* <a
               data-video={AD}
               href="#0"
               aria-controls="video-modal"
@@ -92,18 +83,19 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
+                src={'https://i.ytimg.com/vi/TFGWR4_AWHI/maxresdefault.jpg'}
                 alt="Hero"
                 width={896}
                 height={504} />
-            </a>
+            </a> */}
           </div>
-          <Modal
+          {/* <Modal
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video={AD}
-            videoTag="iframe" />
+            video={'https://youtu.be/pj9q5is0Ih8'}
+            videoTag="iframe" /> */}
+            <iframe width="875" height="478" src="https://www.youtube.com/embed/pj9q5is0Ih8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </section>
